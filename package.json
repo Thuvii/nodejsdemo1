@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "nodejsdemo1-1",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thuvii/nodejsdemo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thuvii/nodejsdemo1/issues"
+  },
+  "homepage": "https://github.com/Thuvii/nodejsdemo1#readme",
+  "description": ""
 }
